@@ -1,0 +1,9 @@
+kullanıcı ad ve şifre kontrolü yapan
+Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorar, e
+ğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve
+unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler
+aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz.
+" sorun yoksa "Şifre oluşturuldu" yazan program
+
+kullanici adi = patika
+şifre = java123
